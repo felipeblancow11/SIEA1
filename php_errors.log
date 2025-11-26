@@ -1,0 +1,5 @@
+[26-Nov-2025 01:58:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.activo' in 'where clause' in C:\xampp\htdocs\SIAE\index.php:80
+Stack trace:
+#0 C:\xampp\htdocs\SIAE\index.php(80): mysqli->query('SELECT a.*, e.n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\SIAE\index.php on line 80
